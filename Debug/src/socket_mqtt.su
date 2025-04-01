@@ -1,0 +1,10 @@
+C:\Users\MiroT\Documents\MCUXpressoIDE_11.5.1_7266\EmbeddedSystemsProgramming\lpc_chip_15xx\inc/core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+C:\Users\MiroT\Documents\MCUXpressoIDE_11.5.1_7266\EmbeddedSystemsProgramming\lpc_chip_15xx\inc/core_cm3.h:1532:26:uint32_t SysTick_Config(uint32_t)	16	static
+C:\Users\MiroT\Documents\MCUXpressoIDE_11.5.1_7266\EmbeddedSystemsProgramming\lpc_chip_15xx\inc/swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+c:\nxp\mcuxpressoide_11.5.1_7266\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.1.202201181444\tools\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v7-m\nofp\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../src/socket_mqtt.cpp:54:6:void SysTick_Handler()	4	static
+../src/socket_mqtt.cpp:60:10:uint32_t get_ticks()	4	static
+../src/socket_mqtt.cpp:69:6:void Sleep(int)	16	static
+../src/socket_mqtt.cpp:78:10:uint32_t millis()	4	static
+../src/socket_mqtt.cpp:90:5:int main()	96	static
+../src/socket_mqtt.cpp:370:6:void produalModbusTest()	384	static

@@ -1,0 +1,13 @@
+C:\Users\MiroT\Documents\MCUXpressoIDE_11.5.1_7266\EmbeddedSystemsProgramming\lpc_chip_15xx\inc/core_cm3.h:1335:22:void NVIC_DisableIRQ(IRQn_Type)	16	static
+C:\Users\MiroT\Documents\MCUXpressoIDE_11.5.1_7266\EmbeddedSystemsProgramming\lpc_chip_15xx\inc/core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+C:\Users\MiroT\Documents\MCUXpressoIDE_11.5.1_7266\EmbeddedSystemsProgramming\lpc_chip_15xx\inc/core_cm3.h:1532:26:uint32_t SysTick_Config(uint32_t)	16	static
+c:\nxp\mcuxpressoide_11.5.1_7266\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.1.202201181444\tools\arm-none-eabi\include\c++\10.3.1\arm-none-eabi\thumb\v7-m\nofp\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../src/I2C.h:18:2:I2C_config::I2C_config()	16	static
+../src/main.cpp:65:6:void SysTick_Handler()	4	static
+../src/main.cpp:71:10:uint32_t get_ticks()	4	static
+../src/main.cpp:80:6:void Sleep(int)	16	static
+../src/main.cpp:89:10:uint32_t millis()	4	static
+../src/main.cpp:93:7:char* renderBar(int, int, int)	48	static
+../src/main.cpp:112:6:bool blockingBtnRead(DigitalIoPin*, int, int)	32	static
+../src/main.cpp:122:6:void clampFanSpeed(int*)	16	static
+../src/main.cpp:127:5:int main()	1216	static
